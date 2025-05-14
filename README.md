@@ -13,7 +13,7 @@ This repository contains solutions to the problem set from the [**Summer Interns
 - [ ] Problem 1: *In progress*  
 - [ ] Problem 2: *In progress*  
 - [ ] Problem 3: *In progress*  
-- [ ] Problem 4: Finished, the key is 'RODGLBQF', there was an attempt to add spaces at the right places but improvement is needed and welcomed!
+- [ ] Problem 4: Finished, the key is 'RODGLBQF', to go a step further there was an attempt to add spaces at the right places but improvement is needed and welcomed!
 
 ## 🤝 Contributions  
 Contributions are welcome! Open an issue or PR for discussions/suggestions.  
