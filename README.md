@@ -1,7 +1,7 @@
 # ISI Cryptology Internship 2019 - Solutions  
 *Work in Progress*  
 
-This repository contains solutions to the problem set from the **Summer Internship in Cryptology 2019** organized by the *R C Bose Centre, Indian Statistical Institute (ISI)*.  
+This repository contains solutions to the problem set from the [**Summer Internship in Cryptology 2019**](https://www2.isical.ac.in/~rcbose/internship/problems2019.pdf) organized by the *R C Bose Centre, Indian Statistical Institute (ISI)*.  
 
 ## 📋 Problems  
 1. **Bags and Balls** *(Combinatorics)*  
