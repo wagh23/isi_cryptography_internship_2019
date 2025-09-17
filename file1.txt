@@ -1,1 +1,2 @@
 branch2 conflicting changes
+branch1 changes
